@@ -1,4 +1,4 @@
 0 Luz
 1 No Luz
-2 
-3
+2 sin pintura no luz
+3 sin pintura si luz
