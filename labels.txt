@@ -1,0 +1,4 @@
+0 paintinghts with ligths
+1 painting no ligths
+2 no painting  no igths
+3 no painting ligths
