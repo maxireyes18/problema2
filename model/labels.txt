@@ -1,0 +1,4 @@
+oscuridad
+luz
+pintura
+no pintura
